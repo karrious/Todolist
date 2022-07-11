@@ -1,0 +1,14 @@
+{
+  "todoList": [
+    {
+      "name": "CPSC210 Midterm",
+      "deadline": "2021-Oct-27",
+      "status": false
+    },
+    {
+      "name": "CPSC210 Lab",
+      "deadline": "2021-Oct-22",
+      "status": false
+    },
+  ]
+}
